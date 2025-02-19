@@ -25,6 +25,14 @@ and you are all sorted if any error just ask ChatGPT or i will give a way to ask
 
 For android users 
 Host this on replit,koyeb,heroku,tmux,termux and use (make sure to keep the chrome window open 24/7 everything is same as windows (replacing files and all)
+I will show Replit demo
+Download ACode or any other code editor from Playstore
+Then get you API ID and API Hash from (https://my.telegram.org/auth)
+Then you need to add a folder where you have to download all the players images with their name like for Eden Hazard save the pic in a collection folder as Eden Hazard 
+then just get the group id where you need to collect players from via /id from rose 
+and then as for folder paste the dir 
+
+Now Deploy on replit
 
 You can use this for Collect your cricketers, Celebrity and all 
 
