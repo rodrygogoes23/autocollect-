@@ -24,8 +24,9 @@ python autocollect.py
 and you are all sorted if any error just ask ChatGPT or i will give a way to ask me 
 
 For android users 
-Host this on replit and use (make sure to keep the chrome window open 24/7 everything is same as windows (replacing files and all)
+Host this on replit,koyeb,heroku,tmux,termux and use (make sure to keep the chrome window open 24/7 everything is same as windows (replacing files and all)
+
+You can use this for Collect your cricketers, Celebrity and all 
 
 Don't mention thanks and fuck you Collect Your Athletes
 soon autospam and autoexplore incoming..........
-
