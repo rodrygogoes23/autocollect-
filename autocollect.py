@@ -26,15 +26,15 @@ logger.addHandler(file_handler)
 logger.addHandler(console_handler)
 
 # Replace these with your API credentials
-api_id = '25451186'
-api_hash = '29b313388dcedca75bbc19adf3c1bf40'
-phone_number = '+916205246242'
+api_id = ''
+api_hash = ''
+phone_number = '+'
 
 # Create the client instance
 client = TelegramClient('@CollectYourPlayerxBot', api_id, api_hash)
 
 # Define the group ID or username (replace with actual group info)
-group = -1001728988710
+group = -
 
 # Define the target caption
 target_caption = "🔥 ʟᴏᴏᴋ ᴀɴ ᴏɢ ᴘʟᴀʏᴇʀ ᴊᴜꜱᴛ ᴀʀʀɪᴠᴇᴅ ᴄᴏʟʟᴇᴄᴛ ʜɪᴍ ᴜꜱɪɴɢ /ᴄᴏʟʟᴇᴄᴛ ɴᴀᴍᴇ"
