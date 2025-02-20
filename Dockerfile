@@ -13,4 +13,4 @@ COPY . /app
 RUN pip install --no-cache-dir -r requirements.txt
 
 # Start the app (make sure your main script is named app.py or change as needed)
-CMD ["python", "app.py"]
+CMD ["python", "autocollect.py"]
